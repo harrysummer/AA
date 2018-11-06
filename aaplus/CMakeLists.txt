@@ -15,6 +15,7 @@ SET ( SRCS_LIB
   AAAberration.cpp
   AAAngularSeparation.cpp
   AABinaryStar.cpp
+  AAChineseCalendar.cpp
   AACoordinateTransformation.cpp
   AADate.cpp
   AADiameters.cpp
@@ -133,6 +134,7 @@ SET ( INCS
   AAAberration.h
   AAAngularSeparation.h
   AABinaryStar.h
+  AAChineseCalendar.h
   AACoordinateTransformation.h
   AADate.h
   AADiameters.h
